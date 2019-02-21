@@ -1,0 +1,6 @@
+2019-02-21 12:57:09.085 DEBUG DESKTOP-PRCMMF9 --- [           main] c.s.a.SmssApiApplication                 : Starting API
+2019-02-21 12:57:09.672 DEBUG DESKTOP-PRCMMF9 --- [  restartedMain] c.s.a.SmssApiApplication                 : Starting API
+2019-02-21 12:57:11.779  INFO DESKTOP-PRCMMF9 --- [  restartedMain] c.s.a.SmssApiApplication                 : Starting SmssApiApplication on DESKTOP-PRCMMF9 with PID 11684 (C:\Users\Public\git\api\smssApi\target\classes started by HP in C:\Users\Public\git\api\smssApi)
+2019-02-21 12:57:11.779 DEBUG DESKTOP-PRCMMF9 --- [  restartedMain] c.s.a.SmssApiApplication                 : Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+2019-02-21 12:57:11.779  INFO DESKTOP-PRCMMF9 --- [  restartedMain] c.s.a.SmssApiApplication                 : No active profile set, falling back to default profiles: default
+2019-02-21 12:57:46.031  INFO DESKTOP-PRCMMF9 --- [  restartedMain] c.s.a.SmssApiApplication                 : Started SmssApiApplication in 36.343 seconds (JVM running for 39.042)
