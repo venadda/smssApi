@@ -44,7 +44,7 @@ public class AuthenticationServiceb {
     public List<Authentication> addAuthenticatedUser(Authentication user) throws SQLException {
         return null;
     }
-
+/*
     public List<Parent> addParent(Parent parent) throws SQLException {
         return null;
     }
@@ -113,4 +113,5 @@ public class AuthenticationServiceb {
     public List<Others> otherByEmailIdIgnreCase(long oid, String name) throws SQLException {
         return null;
     }
+*/
 }
