@@ -5,7 +5,7 @@ import com.smss.api.smssApi.model.auth.Authentication;
 import com.smss.api.system.daos.AuthenticationbDAO;
 import com.smss.api.system.models.Others;
 import com.smss.api.system.models.ParentStudent;
-import javafx.scene.Parent;
+//import javafx.scene.Parent;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
